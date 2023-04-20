@@ -1,0 +1,34 @@
+.wrapper {
+    position: absolute;
+    width: fit-content;
+    max-width: 900px;
+    background-color: gainsboro;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    border-radius: 10px;
+    padding: 10px;
+    overflow-y: auto;
+    padding: 10px;
+    height: fit-content;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.closeBtn{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    color: #b41d2f;
+    cursor:pointer
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.inputWrapper {
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+}
+
