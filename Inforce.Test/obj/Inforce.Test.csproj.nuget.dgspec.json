@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce.Test\\Inforce.Test.csproj": {}
+    "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce.Test\\Inforce.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce.Test\\Inforce.Test.csproj": {
+    "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce.Test\\Inforce.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce.Test\\Inforce.Test.csproj",
+        "projectUniqueName": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce.Test\\Inforce.Test.csproj",
         "projectName": "Inforce.Test",
-        "projectPath": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce.Test\\Inforce.Test.csproj",
+        "projectPath": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce.Test\\Inforce.Test.csproj",
         "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce.Test\\obj\\",
+        "outputPath": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce\\Inforce.csproj": {
-                "projectPath": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce\\Inforce.csproj"
+              "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce\\Inforce.csproj": {
+                "projectPath": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce\\Inforce.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce\\Inforce.csproj": {
+    "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce\\Inforce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce\\Inforce.csproj",
+        "projectUniqueName": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce\\Inforce.csproj",
         "projectName": "Inforce",
-        "projectPath": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce\\Inforce.csproj",
+        "projectPath": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce\\Inforce.csproj",
         "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce\\obj\\",
+        "outputPath": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

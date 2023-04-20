@@ -53,11 +53,11 @@ const Login = () => {
     }
 
     return (
-        <form>
+        <div className="form">
             <input type='text' placeholder="Enter login..." value={login} onChange={handleSetLogin} />
             <input text='text' type="password" placeholder="Enter password..." value={password} onChange={handleSetPassword} />
             <button onClick={handleLogin} className="btn btn-primary">Login</button>
-        </form>
+        </div>
     )
 }
 

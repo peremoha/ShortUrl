@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wEZ4WPvMIK/iz9BNlQ0umbG78FwwZ4rh5fdq8ZEWrBXbFXdxTls5x+Npog9jQALjSC27fBWWO9tgovctI1cOcw==",
+  "dgSpecHash": "QX1V/GgpUvWk0+ne3K+B0cnwQhWktUIVkVOfa5z2aEaSXcBKWjl2NqLpu9+5fC9og/85AQi1D5bLH+iSTTjPkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roman\\source\\repos\\Inforce\\Inforce.Test\\Inforce.Test.csproj",
+  "projectFilePath": "C:\\Users\\Roman\\Desktop\\INFORCE\\ShortUrl\\Inforce.Test\\Inforce.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roman\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Roman\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -38,11 +38,11 @@ const Registera = () => {
     }
 
     return (
-        <form>
+        <div className="form">
             <input type='text' placeholder="Enter login..." value={login} onChange={handleSetLogin} />
             <input text='text' type="password" placeholder="Enter password..." value={password} onChange={handleSetPassword} />
             <button onClick={registration} className="btn btn-primary">Register</button>
-        </form>
+        </div>
     )
 }
 
